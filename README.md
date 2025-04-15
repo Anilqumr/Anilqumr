@@ -35,13 +35,47 @@ Here are a few projects I’m proud of:
 
 ---
 
-### 📊 GitHub Stats (Optional but fun)
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" />
-</p>
-
 ---
+
+### 🧠 Skills
+
+**Languages & Programming**
+- Python (up to OOP)
+- HTML5, CSS3
+
+**Frameworks & Libraries**
+- Scikit-learn (for ML)
+- Numpy (for ML)
+- Pandas (for ML)
+- Matplotlib (for ML)
+  
+**Tools & Platforms**
+- Git & GitHub
+- Visual Studio Code (VS Code)
+- Google Colab
+- Task Scheduler (Windows)
+- Command Line / Terminal
+---
+
+### 🚀 Technologies I’m Currently Learning
+
+- 🧰 Git & GitHub (version control & portfolio management)
+- 🐳 Docker & containerization
+- ⚙️ DevOps concepts (CI/CD, basic Kubernetes)
+- 🔐 Cybersecurity fundamentals
+- 🧠 Machine Learning fundamentals
+- 🌐 Web development (HTML, CSS, JavaScript)
+- 🤖 GitHub Actions (for automation)
+- 🌍 Open source contribution basics
+- 🧾 SAP HANA basics (in-memory database & analytics)
+
+### 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/pyarasani-anil-kumar/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)]([https://github.com/your-username](https://github.com/Anilqumr))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge)](mailto:your.email@example.com)
+
+
 
 Thanks for stopping by! 😊
