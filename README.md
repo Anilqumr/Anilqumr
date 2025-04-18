@@ -32,8 +32,7 @@ Here are a few projects I’m proud of:
 - 🧭 [LPG Gas Detector](#):An IoT-based LPG gas leakage detection system using gas sensors triggers a buzzer and alerts users when leakage is detected.
 - 🌤️ [**WeatherApp**](#): Real-time weather notifier built with Python
 - 📄 [**Turn Based Combat Game**](#): Python(OOPS)-based game simulating a turn-based combat scenario between a player and an enemy. The player and enemy can attack each other, take damage, and be eliminated based on their health status.
-
----
+- 📄 [**Plant Disease Detection Using Convolutional Neural Networks**](#): A system that detects plant diseases from leaf images, helping users identify issues early and take timely action to protect crops.
 
 ---
 
@@ -42,6 +41,9 @@ Here are a few projects I’m proud of:
 **Languages & Programming**
 - Python (up to OOP)
 - HTML5, CSS3
+- C
+- Machine Learning
+- Bash Scripting
 
 **Frameworks & Libraries**
 - Scikit-learn (for ML)
