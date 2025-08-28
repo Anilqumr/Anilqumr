@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Anil Kumar Pyarasani</h1>
-<h3 align="center">Aspiring Software Developer | Tech Explorer 🚀</h3>
+<h3 align="center">Aspiring Software Developer | Tech Enthusiast 🚀</h3>
 
 ---
 
