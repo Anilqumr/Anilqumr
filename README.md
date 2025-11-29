@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Anil Kumar Pyarasani</h1>
-<h3 align="center">Aspiring Software Developer | Tech Enthusiast 🚀</h3>
+<h3 align="center"> Software Developer | Data Analyst </h3>
 
 ---
 
 ### 💻 About Me
 
-- 💽 Have experience using **Python**,**C**,**Frontend Development**, **Google Colab**, and **Machine Learning**.
-- 🌱 I’m currently learning **Cybersecurity** as it a curious concept.
-- 🔭 I’m working on some mini projects using **Python / Web Dev **.
+- 💽 Have experience in **Cyber-Security**, **Data Analysis**,**Python Developer**,**Frontend Development**,, and **Machine Learning**.
+- 🌱 I’m currently learning **Cyber-security**,**Data Analysis**,**Python**.
+- 🔭 I’m working on some mini projects using **Cyber-Security **, **Data Analysis**.
 - 💡 I love automating things, exploring tools, and solving real-world problems with code.
 - 📫 Reach me at: anilqumr@gmail.com or [[LinkedIn Profile]](https://www.linkedin.com/in/pyarasani-anil-kumar/)
 
@@ -16,6 +16,9 @@
 ### 🛠️ Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Power BI](https://img.shields.io/badge/-Power_BI-333333?style=flat&logo=powerbi)
+![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -40,6 +43,7 @@ Here are a few projects I’m proud of:
 
 **Languages & Programming**
 - Python (up to OOP)
+- MySQL
 - HTML5, CSS3
 - C
 - Machine Learning
@@ -53,6 +57,9 @@ Here are a few projects I’m proud of:
   
 **Tools & Platforms**
 - Git & GitHub
+- Power BI
+- Tableau
+- MySQL
 - Visual Studio Code (VS Code)
 - Google Colab
 - Task Scheduler (Windows)
@@ -61,12 +68,16 @@ Here are a few projects I’m proud of:
 
 ### 🚀 Technologies I’m Currently Learning
 
+- 🐍 **Python**: Versatile programming language for data analysis, automation, and development
+- 📊 **Power BI**: Business intelligence tool for creating interactive visualizations and reports
+- 📈 **Tableau**: Data visualization platform for analyzing and presenting data insights
+- 🗄️ **MySQL**: Relational database management system for storing and managing data
 - 🧰 Git & GitHub (version control & portfolio management)
 - 🐳 Docker & containerization
 - ⚙️ DevOps concepts (CI/CD, basic Kubernetes)
-- 🔐 Cybersecurity fundamentals
+- 🔐 **Cybersecurity fundamentals**
 - 🧠 Machine Learning fundamentals
-- 🌐 Web development (HTML, CSS, JavaScript)
+- 🌐 **Web development (HTML, CSS, JavaScript)**
 - 🤖 GitHub Actions (for automation)
 - 🌍 Open source contribution basics
 - 🧾 SAP HANA basics (in-memory database & analytics)
